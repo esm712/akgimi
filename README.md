@@ -11,9 +11,6 @@
 - 다른 유저들과 하루의 아낀 기록을 공유하는 피드 기능
 - 피드 작성 시 본인의 통장에서 돈이 같이 인출되고, 인출기록이 같이 관리되는 통장 관리 기능
 
-## 화면
-
-
 # 백엔드
 ## Software architecture
 ![clean_architecture](./readme_image/clean_architecture.png)
